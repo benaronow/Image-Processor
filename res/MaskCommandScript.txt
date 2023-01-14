@@ -1,0 +1,52 @@
+load SavedMaskImages/Original.ppm original
+load SavedMaskImages/Mask.ppm mask
+
+red-component original red
+red-component original mask redmask
+save SavedMaskImages/red.ppm red
+save SavedMaskImages/redmask.ppm redmask
+
+green-component original green
+green-component original mask greenmask
+save SavedMaskImages/green.ppm green
+save SavedMaskImages/greenmask.ppm greenmask
+
+blue-component original blue
+blue-component original mask bluemask
+save SavedMaskImages/blue.ppm blue
+save SavedMaskImages/bluemask.ppm bluemask
+
+intensity-component original intensity
+intensity-component original mask intensitymask
+save SavedMaskImages/intensity.ppm intensity
+save SavedMaskImages/intensitymask.ppm intensitymask
+
+luma-component original luma
+luma-component original mask lumamask
+save SavedMaskImages/luma.ppm luma
+save SavedMaskImages/lumamask.ppm lumamask
+
+maxvalue-component original maxvalue
+maxvalue-component original mask maxvaluemask
+save SavedMaskImages/maxvalue.ppm maxvalue
+save SavedMaskImages/maxvaluemask.ppm maxvaluemask
+
+blur original blur
+blur original mask blurmask
+save SavedMaskImages/blur.ppm blur
+save SavedMaskImages/blurmask.ppm blurmask
+
+sharpen original sharpen
+sharpen original mask sharpenmask
+save SavedMaskImages/sharpen.ppm sharpen
+save SavedMaskImages/sharpenmask.ppm sharpenmask
+
+brighten 100 original brighten
+brighten 100 original mask brightenmask
+save SavedMaskImages/brighten.ppm brighten
+save SavedMaskImages/brightenmask.ppm brightenmask
+
+mosaic 100 original mosaic
+mosaic 100 original mask mosaicmask
+save SavedMaskImages/mosaic.ppm mosaic
+save SavedMaskImages/mosaicmask.ppm mosaicmask

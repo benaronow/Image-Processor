@@ -1,0 +1,7 @@
+load SavedDownscaleImages/Original.ppm original
+
+downscale 50 50 original 5050
+save SavedDownscaleImages/5050.ppm 5050
+
+downscale 60 40 original 6040
+save SavedDownscaleImages/6040.ppm 6040
