@@ -117,32 +117,50 @@ Image Citations:
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launch the program: <br/>
+<img src="https://imgur.com/QQUIePe.png" height="80%" width="80%"/>
+<br />
+<img src="https://imgur.com/l0JLVNd.png" height="80%" width="80%"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Choose an image to edit:  <br/>
+<img src="https://imgur.com/AWBHmBX.png" height="80%" width="80%"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Edit an image: <br/>
+<img src="https://imgur.com/DW2AcXw.png" height="80%" width="80%"/>
+<br />
+<img src="https://imgur.com/U7zuIO1.png" height="80%" width="80%"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Preview an edit:  <br/>
+<img src="https://imgur.com/6xvYM5X.png" height="80%" width="80%"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Choose a mask to edit with:  <br/>
+<img src="https://imgur.com/A4xeuW1.png" height="80%" width="80%"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Edit an image with a mask:  <br/>
+<img src="https://imgur.com/Af0CoBP.png" height="80%" width="80%"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Import an image:  <br/>
+<img src="https://imgur.com/hzRUwzq.png" height="80%" width="80%"/>
+<br />
+<img src="https://imgur.com/bmYybfB.png" height="80%" width="80%"/>
+<br />
+<br />
+Imported images can be edited in the same manner:  <br/>
+<img src="https://imgur.com/IXdXbWz.png" height="80%" width="80%"/>
+<br />
+<br />
+Export an image:  <br/>
+<img src="https://imgur.com/XIG1Yko.png" height="80%" width="80%"/>
+<br />
+<br />
+Exported images can be viewed from your personal directory:  <br/>
+<img src="https://imgur.com/xRpLw4d.png" height="80%" width="80%"/>
 </p>
 
 <!--
