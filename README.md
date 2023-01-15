@@ -22,7 +22,6 @@ Starter Image Citations:
 - https://www.flickr.com/photos/albertofarzas/7007546026/sizes/o/
 - https://frozenpediathepenguin.fandom.com/wiki/Frozenpedia,_The_Penguin_Wiki
 - https://www.hsph.harvard.edu/jellyfish/
-<br />
 
 <h2>Using the JAR file</h2>
 
@@ -33,6 +32,17 @@ script filename to execute the file in text form in the console. Two provided sc
 "DownscaleCommandScript.txt", which creates two downscaled images of an original image, and
 "MaskCommandScript.txt", which creates edited images for every operation usable with a mask, and
 their counterparts created with a mask.
+
+<h2>GUI Tutorial</h2>
+
+Click the "Load Image" button and select an image from your file explorer to use, then enter a name for your image and click "Confirm". Alternatively, you can choose a default image already loaded in by opening the dropdown box and selecting one.
+Select the corresponding button on the left side of the screen that represents which operation you want to run on the image that is currently selected.
+</br>
+</br>
+Selecting the "Red Greyscale", "Green Greyscale", "BlueGreyscale", "Max-Value Greyscale", "Luma Greyscale", "Intensity Greyscale", "Sepia Tone", "Horizontal Flip", "Vertical Flip", "Blur Filter", and "Sharpen Filter" buttons will prompt you to enter a name for the new image, while the "Brighten" button will ask for a number to brighten the image by, as well as a name.
+</br>
+</br>
+The new image will be displayed. From here, you can continue modifying this image, select another image already loaded in from the dropdown button, load in a new image, or save the image currently being displayed.
 
 <h2>Languages and Utilities Used</h2>
 
