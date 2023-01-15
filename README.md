@@ -1,6 +1,6 @@
 <h1>Image Processor</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [Video Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 The design of our Image Processor begins with the model, which starts with the ImageModel
