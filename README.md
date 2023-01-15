@@ -12,7 +12,7 @@ edited, and also serves to provide edit previews that display an edits changes o
 window of the full image.
 </br>
 </br>
-The clean and user-friendly GUI was created using Swing and is not the only method through which the
+The clean and user-friendly GUI was created using Java Swing and is not the only method through which the
 image processor is usable. Depending on how the program is initialized, the you may enter commands for
 the processor into the terminal, or provide a file containing a script of commands for the program to
 execute one after another.
