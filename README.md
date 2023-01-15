@@ -19,9 +19,10 @@ execute one after another.
 </br>
 </br>
 Starter Image Citations:
-- https://www.flickr.com/photos/albertofarzas/7007546026/sizes/o/
-- https://frozenpediathepenguin.fandom.com/wiki/Frozenpedia,_The_Penguin_Wiki
-- https://www.hsph.harvard.edu/jellyfish/
+</br>
+- [Koala image](https://www.flickr.com/photos/albertofarzas/7007546026/sizes/o/)
+- [Penguins image](https://frozenpediathepenguin.fandom.com/wiki/Frozenpedia,_The_Penguin_Wiki)
+- [Jellyfish image](https://www.hsph.harvard.edu/jellyfish/)
 
 <h2>Using the JAR file</h2>
 
