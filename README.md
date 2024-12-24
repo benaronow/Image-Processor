@@ -56,9 +56,8 @@ The new image will be displayed. From here, you can continue modifying this imag
 
 <h2>Program walk-through:</h2>
 
-Ensure you are using Java SE 11
 <p align="center">
-Launch the program: <br/>
+Ensure you are using Java SE 11 and launch the program: <br/>
 <img src="https://imgur.com/QQUIePe.png" height="80%" width="80%"/>
 <br />
 <img src="https://imgur.com/l0JLVNd.png" height="80%" width="80%"/>
